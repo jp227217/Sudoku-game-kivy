@@ -18,3 +18,5 @@ if want u can try to creat .exe file
 
 
 by making changes in size of the window and widgets we can make apk file also and looks fine 
+
+u can execute individual file to know how each class or moduloe works i already work some extra code at end to run the files individually also
