@@ -15,4 +15,6 @@ but it won't look nice because it is designed for pc which makes differenc in fo
 but runs well 
 
 if want u can try to creat .exe file
-by making changes in size of the window and widgets we can make apk file also 
+
+
+by making changes in size of the window and widgets we can make apk file also and looks fine 
